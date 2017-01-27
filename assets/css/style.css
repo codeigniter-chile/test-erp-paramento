@@ -1,0 +1,170 @@
+.sidebar-nav ul li{
+    list-style: none;
+}
+
+.sidebar-nav {
+    color: #fff;
+}
+
+
+.sidebar-brand{
+	text-align: center;
+}
+
+.logo-left{
+	max-width: 60%;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+
+.my-container{
+	min-height: 650px;
+}
+
+
+#footer{
+	background-color: #4d4b4b;
+	min-height: 100px;
+	color: #fff;
+}
+
+#footer .row{
+    padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+#footer ul li{
+	list-style: none;
+
+}
+
+#footer a{
+   color: #fff;
+}
+
+.footerbar{
+	background-color: #1a1a1a;
+	text-align: center;
+	padding: 20px;
+}
+
+
+
+/*  R1   */
+
+.info-general  {
+   background-color: #3598dc;
+   color: #fff;
+   border: 0px solid #000000;
+   -moz-border-radius: 2px;/*Firefox*/
+   -webkit-border-radius: 2px;/*Safari, Chrome*/
+   border-radius: 2px;
+}
+
+.info-general a{
+	color: #fff;
+}
+
+.info-general .info-general-link  {
+   background-color: #2690d8;
+   padding: 5px;
+}
+
+.info-general .puno{
+    font-size: 34px;
+    font-weight: 300;
+    letter-spacing: -1px;
+    line-height: 36px;
+    margin-bottom: 0;
+    padding-top: 25px;
+    text-align: right;
+    padding-right: 25px;
+} 
+
+.info-general .pdos{
+    margin-bottom: 0;
+    text-align: right;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+
+
+ #R12{
+	background-color: #e7505a;
+}
+
+ #R12 .info-general-link{
+ 	background-color: #e5404b;
+ } 
+
+
+ #R13{
+	background-color: #32c5d2;
+}
+
+ #R13 .info-general-link{
+ 	background-color: #2cb9c5;
+ } 
+
+
+#R14{
+	background-color: #e87e04;
+}
+
+ #R14 .info-general-link{
+ 	background-color: #cc6f04;
+ } 
+
+
+#R15{
+	background-color: #8e44ad;
+}
+
+ #R15 .info-general-link{
+ 	background-color: #763791;
+ } 
+
+#R16{
+	background-color: #848181;
+}
+
+ #R16 .info-general-link{
+ 	background-color: #555;
+ } 
+
+ #R17{
+	background-color: #c49f47;
+}
+
+ #R17 .info-general-link{
+ 	background-color: #9d7f39;
+ }
+
+
+
+ #R17{
+	background-color: #c49f47;
+}
+
+ #R17 .info-general-link{
+ 	background-color: #9d7f39;
+ }
+
+
+
+ #R18{
+	background-color: #f2784b;
+}
+
+ #R18 .info-general-link{
+ 	background-color: #cc633c;
+ }  
+
+
+  #R19{
+	background-color: #26c281;
+}
+
+ #R19 .info-general-link{
+ 	background-color: #166e49;
+ }  
